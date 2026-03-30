@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ek8oa2JWtHowiUwyHVH0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ek8oa2JWtHowiUwyHVH0-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ek8oa2JWtHowiUwyHVH0-1" value="寻找“费率结构”下的规定信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="210" width="170" height="100" as="geometry" />
         </mxCell>
@@ -14,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ek8oa2JWtHowiUwyHVH0-4" value="存在字段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="230" width="70" height="30" as="geometry" />
+          <mxGeometry x="344" y="230" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ek8oa2JWtHowiUwyHVH0-5" value="提取对应信息读入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="230" width="180" height="60" as="geometry" />
