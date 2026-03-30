@@ -7,7 +7,7 @@
         <mxCell id="ek8oa2JWtHowiUwyHVH0-1" value="寻找“费率结构”下的规定信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="210" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ek8oa2JWtHowiUwyHVH0-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ek8oa2JWtHowiUwyHVH0-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ek8oa2JWtHowiUwyHVH0-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="260" as="sourcePoint" />
             <mxPoint x="330" y="260" as="targetPoint" />
@@ -17,7 +17,7 @@
           <mxGeometry x="240" y="230" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ek8oa2JWtHowiUwyHVH0-5" value="提取对应信息读入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="230" width="180" height="60" as="geometry" />
+          <mxGeometry x="600" y="230" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
